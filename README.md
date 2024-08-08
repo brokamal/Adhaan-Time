@@ -8,6 +8,11 @@ shell script to fetch adhaan time using API
 ```
 ./jadwalsholat.sh location year month day prayer 
 
-example: 
+```
+
+Example 
+
+```
 ./jadwalsholat.sh Jakarta 2022 3 30 dzuhur
+
 ```
