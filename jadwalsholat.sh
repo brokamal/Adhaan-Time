@@ -16,6 +16,6 @@ response=$(curl -s $URL)
 adhaan_time=$(echo $response | jq -r --arg date "$YEAR-$MONTH-$DAY" --arg prayer "$PRAYER" '.[] | select(.tanggal == $date) | .[$prayer]')
 
 
-echo "$PRAYER time on $YEAR-$MONTH-$DAY in $LOCATION is : $adhaan_time"
+echo "$PRAYER time is : $adhaan_time"
 
 
