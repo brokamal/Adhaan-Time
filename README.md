@@ -16,3 +16,9 @@ Example
 ./jadwalsholat.sh Jakarta 2022 3 30 dzuhur
 
 ```
+
+Output 
+
+```
+dzuhur time is : 11:48
+```
