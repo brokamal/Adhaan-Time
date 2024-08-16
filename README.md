@@ -1,7 +1,7 @@
 # Adhaan Time
 Adhaan Time on terminal 
 
-shell script to fetch adhaan time using API 
+shell script to fetch adhaan time using API from https://github.com/lakuapik/jadwalsholatorg
 
 # Usage 
 
